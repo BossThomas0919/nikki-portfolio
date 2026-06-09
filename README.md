@@ -1,4 +1,4 @@
-# Obedullah | UI/UX & Graphic Designer Portfolio
+# Nikki Grant | UI/UX & Graphic Designer Portfolio
 
 Welcome to my personal portfolio website showcasing my UI/UX and graphic design work. This project demonstrates my skills in web design, responsive layouts, animations, and modern front-end development.
 
